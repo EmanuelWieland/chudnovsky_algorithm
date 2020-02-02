@@ -1,0 +1,3 @@
+<h1>Chudnovsky-Algorithm</h1>
+<p>The Chudnovsky algorithm is a fast method for calculating the digits of π, based on Ramanujan’s π formulae. It was published by the Chudnovsky brothers in 1988, and was used in the world record calculations of 2.7 trillion digits of π in December 2009, 10 trillion digits in October 2011, 22.4 trillion digits of π in November 2016, but one of Google's employees used Google's supercomputer to calculate 31.4 trillion digits in September 2018–January 2019.</p>
+<a ref="https://en.wikipedia.org/wiki/Chudnovsky_algorithm#cite_note-baruah-2">Wikipedia</a>
